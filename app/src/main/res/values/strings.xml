@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project-3</string>
+    <string name="red_button">Red Button</string>
+    <string name="green_button">Green Button</string>
+    <string name="blue_button">Blue Button</string>
+    <string name="todo">TODO</string>
+</resources>
